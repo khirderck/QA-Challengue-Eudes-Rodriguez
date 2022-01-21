@@ -1,4 +1,7 @@
 # QA-Challengue-Eudes-Rodriguez
+
+Para correr esta suite de automatizacion debe tener instalado cualquier IDE de Python preferiblemente Phycharm, el Web Driver de Google Chrome compatible con la version de Google Chrome instalada en su dispositivo e instalar las librerias mencionadas mas adelante en el IDE (selenium).
+
 El objetivo de este challenge es ejecutar satisfactoriamente todos los pasos de las pruebas en las páginas web indicadas, empezando por el análisis de las pruebas hasta reporte de los resultados.
 
 
